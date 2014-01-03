@@ -13,7 +13,7 @@
 	[
 		{
 			"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
-      "selector": "text, source, meta, string, punctuation, constant"
+			"selector": "text, source, meta, string, punctuation, constant"
 		}
 	],
 	"auto_complete_with_fields": false,
